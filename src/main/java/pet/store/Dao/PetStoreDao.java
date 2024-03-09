@@ -1,4 +1,4 @@
-package pet.store.Dao;
+package pet.store.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
